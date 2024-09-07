@@ -17,7 +17,7 @@ Tested on OpenWrt 22.03
 
 ![image](https://github.com/user-attachments/assets/677b3787-9e71-4834-afc4-c1a94cbd8c37)
 
-URL to download the anti-novel-domain file: https://raw.githubusercontent.com/hplc/anti-novol-domain/main/anti-novol-domains.txt
+URL to download the anti-novel-domain file: https://raw.githubusercontent.com/hplc/anti-novel-domain/main/anti-novel-domains.txt
 #### 测试
 ![image](https://github.com/user-attachments/assets/18401b76-6cea-4364-9504-5749eeffda13)
 
