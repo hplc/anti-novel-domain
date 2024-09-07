@@ -6,4 +6,6 @@
 ### OpenWrt + simple-adblock
 OpenWrt 22.03
 
-![image](https://github.com/user-attachments/assets/65a2f6fc-8492-44c0-971f-130cd51ce1d9)
+![image](https://github.com/user-attachments/assets/677b3787-9e71-4834-afc4-c1a94cbd8c37)
+
+URL to download the anti-novel-domain file: https://raw.githubusercontent.com/hplc/anti-novol-domain/main/anti-novol-domains.txt
