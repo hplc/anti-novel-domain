@@ -1,7 +1,7 @@
 # anti-novel-domain
-收集的中文小说网站列表，用于做防火墙阻断用。
+收集的中文小说和动漫网站列表，用于做防火墙阻断用。
 
-为防止内部网络中的用户浏览小说网站，收集了一些小说网站域名，用于做防火墙阻断。
+为防止内部网络中的用户浏览小说和动漫网站，收集了一些小说网站域名，用于做防火墙阻断。
 
 ## 用法
 ### 1. OpenWrt + [Simple AdBlock](https://github.com/stangri/openwrt-simple-adblock)
